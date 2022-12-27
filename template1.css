@@ -1,0 +1,32 @@
+body{
+    background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-repeat: no-repeat;
+  
+
+
+}
+.container{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    margin-top: 1400px;
+    height:300px;
+    width:1070px;
+    background-color: white;
+
+    
+ 
+  
+}
+#advance{
+    color: rgb(112, 71, 146);
+    text-align: center;
+ }
+ #button{
+   margin-left: 280px;;
+     margin-top:50px;}
+ #mach{
+        margin:45px;
+    }
+.btn-secondary{
+    background-color:rgb(146, 56, 230);
+}
