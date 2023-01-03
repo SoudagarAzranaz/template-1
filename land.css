@@ -1,0 +1,43 @@
+#img1{
+     position: relative;
+     font-weight: bolder;
+        bottom: 690px;
+        left:350px;
+        color:white;
+        font-size: 250px;
+        font-style: italic;
+    }
+    #img2{
+        position: relative;
+        font-weight: bolder;
+           bottom: 790px;
+           left:420px;
+           color:white;
+           font-size: 40px;
+           font-style: italic;
+       }
+       span{
+        color: rgb(54, 9, 83);
+       }
+       .carousel-inner{
+        height: 700px;
+       }
+       #img3{
+        position: relative;
+        font-weight: bolder;
+           bottom: 790px;
+           left:350px;
+           color:rgb(143, 21, 177);
+           font-size: 250px;
+           font-style: italic;
+       }
+       #img4{
+           position: relative;
+           font-weight: bolder;
+              bottom: 890px;
+              left:420px;
+              color:white;
+              font-size: 40px;
+              font-style: italic;
+          }
+   
